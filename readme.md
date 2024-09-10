@@ -6,4 +6,5 @@
 ---
 
 - [x] Day 1 - [Sorting array](https://github.com/pranav-karthikeyan/Daily_Programming_Challenge_2024/blob/main/day1.py)
+- [x] Day 2 - [Missing element array](https://github.com/pranav-karthikeyan/Daily_Programming_Challenge_2024/blob/main/day2.py)
 - [ ] More to go...
